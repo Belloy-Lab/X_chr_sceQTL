@@ -1,0 +1,3 @@
+cd /path/to/09_coloc/9.2_coloc_analysis
+
+bash submit_all.sh

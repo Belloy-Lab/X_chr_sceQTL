@@ -1,0 +1,6 @@
+cd /path/to/07_twas/7.5_generate_weights
+
+ln -s ./ output
+
+chmod +x submit_all.sh
+bash submit_all.sh
